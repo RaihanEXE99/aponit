@@ -54,7 +54,7 @@ features:
 pricing:
   headline: Pricing
   title: A Plan for Every Need
-  description: "Choose the plan that fits your needs. All our plans offer the same great features with varying speeds and prices." - to order call now 01674522298
+  description: "Choose the plan that fits your needs. All our plans offer the same great features with varying speeds and prices."
   plans:
     - title: Basic
       description: "Ideal for light users who need reliable connectivity."
@@ -70,9 +70,9 @@ pricing:
         - BDIX Connected
         - Unlimited Download
         - 24/7 Customer Support
-
+        - Call Now 01674522298
     - title: Standard
-      description: "Perfect for small teams needing more speed and capacity." - to order call now 01674522298
+      description: "Perfect for small teams needing more speed and capacity."
       price: "1000 Taka"
       speed: "45 Mbps"
       highlight: true
@@ -88,7 +88,7 @@ pricing:
         - 24/7 Customer Support
         - Call Now 01674522298
     - title: Premium
-      description: "Designed for large teams and high-demand users." - to order call now 01674522298
+      description: "Designed for large teams and high-demand users."
       price: "2000 Taka"
       speed: "80 Mbps"
       align: top
